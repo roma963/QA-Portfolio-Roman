@@ -67,13 +67,13 @@
 
 ## Ссылки на материалы проекта
 
-- [Тест-кейсы (Google sheets)]
-(https://docs.google.com/spreadsheets/d/1i8b2qvsgi2OVMtmu0QMrCzceqTo4nolj6deI8MWJ5cA/edit?gid=0#gid=0)
-- [Баг-репорт (Google sheets)]
-(https://docs.google.com/spreadsheets/d/1i8b2qvsgi2OVMtmu0QMrCzceqTo4nolj6deI8MWJ5cA/edit?gid=335394616#gid=335394616)
-- [Автотесты (GitHub)]
-(https://github.com/roma963/Excursium_QA.git)
-- [Отчёт о проведенном тестировании (Word)]
-(https://1drv.ms/w/c/618d2efac078e364/EaldWl-eXHZFk1Te0WfTiPwBdzDwCd2giGrI9BTz4MPhYg?e=asYwgu)
+- [Тест-кейсы (Google sheets)](https://docs.google.com/spreadsheets/d/1i8b2qvsgi2OVMtmu0QMrCzceqTo4nolj6deI8MWJ5cA/edit?gid=0#gid=0)
+
+- [Баг-репорт (Google sheets)](https://docs.google.com/spreadsheets/d/1i8b2qvsgi2OVMtmu0QMrCzceqTo4nolj6deI8MWJ5cA/edit?gid=335394616#gid=335394616)
+
+- [Автотесты (GitHub)](https://github.com/roma963/Excursium_QA.git)
+
+- [Отчёт о проведенном тестировании (Word)](https://1drv.ms/w/c/618d2efac078e364/EaldWl-eXHZFk1Te0WfTiPwBdzDwCd2giGrI9BTz4MPhYg?e=asYwgu)
+
 
 
