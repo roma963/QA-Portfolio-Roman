@@ -1,6 +1,6 @@
 # Тестирование API сервиса PetFriends в Postman
 
-Учебный проект по тестированию REST API сервиса **PetFriends** с помощью Postman.  
+Учебный проект по тестированию REST API сервиса [PetFriends](https://petfriends.skillfactory.ru/all_pets) с помощью Postman используя инструмент [Swagger](https://petfriends.skillfactory.ru/apidocs/).  
 Цель – отработать сценарное тестирование, работу с переменными коллекции и data-driven подход (CSV).
 
 ---
@@ -65,5 +65,5 @@
 
 - Коллекция Postman (JSON):  
   [Ссылка](https://drive.google.com/drive/u/0/folders/1gtrh44DzveKXIVgzBh9saxg9gpBmHBLE)
-- Тестовые данные (CSV):  
+- Тестовые данные (CSV): файл не найден  
   
