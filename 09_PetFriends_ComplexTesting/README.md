@@ -54,7 +54,7 @@
   - Elements — проверка DOM и вёрстки;  
   - Sources — поиск открытых ключей и токенов;  
   - Lighthouse — базовый аудит производительности и качества.
-- **Postman** — проверка работы API (GET/POST-запросы, заголовки, структура ответов).
+- [Postman](https://drive.google.com/file/d/1Xvai6zq-65dih5HuXUYAUnNYPnW8rrDq/view) — проверка работы API (GET/POST-запросы, заголовки, структура ответов).
 - **Git / GitHub** — управление исходным кодом и историей коммитов.
 - **Word / Excel** — оформление чек-листов, тест-кейсов и списка багов.
 
@@ -80,7 +80,7 @@
 > Здесь нужно подставить свои реальные ссылки из Google Drive / OneDrive.
 
 - **Чек-лист и тест-кейсы (Excel):**  
-  [Чек-лист](https://1drv.ms/w/c/618d2efac078e364/EW3M0Y3kO39Mhb79gqewkg4Bzr6_ihdR4Bxstk3y9cAkiA?e=5fhdEC) и [тест-кейсы PetFriends](https://1drv.ms/x/c/c7617c2179032117/IQCP01UrKLwCQJekLlzS5aSLARR8TUH6pRl-CrDxXrvDHQs?e=mxJzDG)
+  [Чек-лист](https://1drv.ms/w/c/618d2efac078e364/EW3M0Y3kO39Mhb79gqewkg4Bzr6_ihdR4Bxstk3y9cAkiA?e=OgcOmw) и [тест-кейсы PetFriends](https://1drv.ms/x/c/c7617c2179032117/IQCP01UrKLwCQJekLlzS5aSLARR8TUH6pRl-CrDxXrvDHQs?e=mxJzDG)
 
 - **Список багов:**  
   Находится в этой же таблице в колонках «результат» и «описание бага»  
