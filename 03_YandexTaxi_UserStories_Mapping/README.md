@@ -48,11 +48,11 @@ User Stories + Tasks:
 ## Материалы проекта
 
 🔹 User Story Mapping (PDF):
-[Ссылка на файл](https://apps.skillfactory.ru/learning/course/course-v1:SkillFactory+QAP-3.0+2021/block-v1:SkillFactory+QAP-3.0+2021+type@sequential+block@1f2e9fcdb5b74a20bef7d39c2b1702ee/block-v1:SkillFactory+QAP-3.0+2021+type@vertical+block@1c718a64d1724f00b610440138e108ce?homework=1194)
+[Ссылка на файл](file:///C:/Users/%D0%BD%D0%B8%D1%82%D1%80%D0%BE/OneDrive/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/User%20Story%20Mapping.pdf)
 
 🔹 Example Mapping (PDF):
-[Ссылка на файл](https://apps.skillfactory.ru/attachments/257607?token=eyJraWQiOiJBRkFDLTEiLCJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJUT1JBIEFQSSBHYXRld2F5IiwiYWxsb3dlZElkcyI6WyIyNTc2MDciLCIyNTc2MDgiLCIyNTc2MDkiXSwiZXhwIjoxNzY1NDAyMDE5LCJpYXQiOjE3NjQ3OTcyMTl9.qkzUJyNjM5nfMiXKJe1zpKJNx5LULau9_q9EnDUgU4ZOdGaayPEcaRQUD7qDKj8p_kC1eDTULXPWT4ohpn_Klw)
-[Ссылка на файл](https://apps.skillfactory.ru/attachments/257607?token=eyJraWQiOiJBRkFDLTEiLCJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJUT1JBIEFQSSBHYXRld2F5IiwiYWxsb3dlZElkcyI6WyIyNTc2MDciLCIyNTc2MDgiLCIyNTc2MDkiXSwiZXhwIjoxNzY1NDAyMDE5LCJpYXQiOjE3NjQ3OTcyMTl9.qkzUJyNjM5nfMiXKJe1zpKJNx5LULau9_q9EnDUgU4ZOdGaayPEcaRQUD7qDKj8p_kC1eDTULXPWT4ohpn_Klw)
+[Ссылка на файл](file:///C:/Users/%D0%BD%D0%B8%D1%82%D1%80%D0%BE/OneDrive/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Exampl%20Making%20-%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BE%D0%BA%20%D0%B2%20%D0%B2%D0%B5%D0%B1.%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%A2%D0%B0%D0%BA%D1%81%D0%B8.pdf)
+[Ссылка на файл](file:///C:/Users/%D0%BD%D0%B8%D1%82%D1%80%D0%BE/OneDrive/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/Exampl%20Making-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%B5%D0%B7%D0%B4%D0%BE%D0%BA%20%D0%B2%20%D0%B2%D0%B5%D0%B1.%20%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B8%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%A2%D0%B0%D0%BA%D1%81%D0%B8%20-%20Xmind%20AI.pdf)
 
 Все карты выполнены в XMind и экспортированы в PDF согласно требованиям задания.
 
