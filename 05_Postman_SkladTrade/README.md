@@ -27,4 +27,4 @@ pm.test("Status code is 200", function () {
 - Экспорт коллекции
 
 Коллекция экспортирована в формате JSON и доступна по ссылке:
-[Ссылка](https://apps.skillfactory.ru/attachments/277653?token=eyJraWQiOiJBRkFDLTEiLCJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJUT1JBIEFQSSBHYXRld2F5IiwiYWxsb3dlZElkcyI6WyIyNzc2NTMiXSwiZXhwIjoxNzY1NDQ5NzA0LCJpYXQiOjE3NjQ4NDQ5MDR9.p38nVrVJQ6yRROv2DMZjP_guz_w_k4l5kpa1X17UUTFtQVu95FmjFwwUehbubH-UQq-XADEWPba5QYw9Ovf4Kg)
+[Ссылка](https://drive.google.com/drive/u/0/folders/1gtrh44DzveKXIVgzBh9saxg9gpBmHBLE)
