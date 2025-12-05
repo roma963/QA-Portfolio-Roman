@@ -64,6 +64,6 @@
 ## Материалы проекта
 
 - Коллекция Postman (JSON):  
-  [Ссылка](https://drive.google.com/drive/u/0/folders/1gtrh44DzveKXIVgzBh9saxg9gpBmHBLE)
+  [Ссылка](https://drive.google.com/drive/u/0/folders/14xNGqB9_6os6HTBjYd-cnDL1q3otsuhm)
 - Тестовые данные (CSV): файл не найден  
   
