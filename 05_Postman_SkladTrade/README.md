@@ -27,4 +27,4 @@ pm.test("Status code is 200", function () {
 - Экспорт коллекции
 
 Коллекция экспортирована в формате JSON и доступна по ссылке:
-[Ссылка](https://drive.google.com/drive/u/0/folders/1gtrh44DzveKXIVgzBh9saxg9gpBmHBLE)
+[Ссылка](https://drive.google.com/drive/u/0/folders/1fI7opU0I7Ptn2iN7HsjBQvCX-YlhebKm)
