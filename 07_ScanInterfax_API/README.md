@@ -37,10 +37,10 @@
 ##  Файлы проекта
 
 - **Postman коллекция (JSON)**  
-   [Ссылка](https://drive.google.com/drive/u/0/folders/1KBe768bcWWL79Io9nobmesu6PRRnj1lp)
+   [Ссылка](https://drive.google.com/drive/u/0/folders/1708N-P86ljVGWjpCgYPNCp_yHKuZPFqv)
 
 - **CSV-файл с тестовыми данными**  
-   [scan_login_data.csv](https://drive.google.com/drive/u/0/folders/1KBe768bcWWL79Io9nobmesu6PRRnj1lp)
+   [scan_login_data.csv](https://drive.google.com/drive/u/0/folders/1708N-P86ljVGWjpCgYPNCp_yHKuZPFqv)
 
 ---
 
