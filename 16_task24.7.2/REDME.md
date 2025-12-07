@@ -63,6 +63,6 @@
 - Результат
 Все тесты подготовлены и размещены в GitHub в соответствии с требованиями:
 
-- [Ссылка на код api.py с реализацией недостающих методов](https://github.com/roma963/tests_PetFrends.git)
+- [Ссылка на код api.py с реализацией недостающих методов](https://github.com/roma963/tests_PetFrends.git),[Ссылка дополнение](https://drive.google.com/file/d/1Qcz2vR6Zvc2e34AMUW6Bv6L3fI9KrZnT/view?usp=sharing)
 
 - [Ссылка на файл с 10 тестами](https://github.com/roma963/CalculatorProject_24_2_4_new.git)
