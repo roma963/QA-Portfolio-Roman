@@ -9,4 +9,4 @@
 5. Пользователя с наибольшей суммой заказов
 6. Среднюю стоимость заказа
 7. Среднюю стоимость товара
-[Ссылка на проект](https://github.com/roma963/json_orders_project.git)
+- [Ссылка на проект](https://github.com/roma963/json_orders_project.git)
