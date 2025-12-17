@@ -137,6 +137,11 @@ Selenium-тесты: implicit и explicit waits в PetFriends.
 
 Тестирование UI веб-и мобильных приложений
 
+## Сертификаты об окончании учёбы в Skillfactory — oнлайн-школа
+ - Направление обучения - Тестировщик-автоматизатор на Python (QAP)
+   1. [Ссылка](https://drive.google.com/drive/folders/1JWhhqNws4dbZMHZF0JZJ5tNRepgvUVvB?usp=drive_link)
+   2. [Ссылка](https://drive.google.com/drive/folders/1dfZsGTsiK3FzQyicZCSmpHM8IjO3cs9r?usp=sharing)
+
 ## Контакты
 
 Roman
